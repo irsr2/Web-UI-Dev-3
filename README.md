@@ -35,7 +35,8 @@ We can also provide an interface for philanthropists and NGOs to support technol
 # Workflow:
 
 ## Section: 
-School Admin can login and create, read, update and delete information on the condition of the school including general issues and the condition of equipment devices in the school
+`School Admin can login and create, read, update and delete information on the condition of the school including general issues and the condition of equipment devices in the school`
+Our software makes it easy
 ![Admin: create, read, update and delete](../design/state.jpg)
 
 ## Section:
@@ -46,8 +47,9 @@ A board member can log in and mark the action as done, scheduled, or ignored, an
 donor could see a need and purchase the needed device
 ![Equipment Needed](../design/equipmentneeded.jpg)
 
+# Content:
 Philanthropy & technological investment 
-Making needs known to NGOs, Local government, and philanthropistsbnm,
+Making needs known to NGOs, Local government, and philanthropists,
 
 Styling Features (img example):
 * Round edges
@@ -65,7 +67,7 @@ Sections:
 
 Single page:
 
-nav menu
+ sticky nav menu, reflects state
 
 iconography
 font awesome?
@@ -74,3 +76,7 @@ icons in nav bar (language agnostic)
 
 * list/ ledger
 * laptop
+
+<script>
+document.title = "{$currentsection}":
+</script>
