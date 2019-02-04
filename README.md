@@ -28,8 +28,8 @@ Responsivle mobile / desktop
 
 # header p: 
 ```
-We make it easy for schools to keep track of their technological assets and equipment.
-As well as provide and interface for philanthropists and NGOs to support technological development in the developing world.
+Our software makes it easy for schools to keep track of their technological assets and equipment.
+We can also provide an interface for philanthropists and NGOs to support technological development in the developing world.
 ```
 
 # Workflow:
