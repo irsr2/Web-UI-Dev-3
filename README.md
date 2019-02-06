@@ -7,6 +7,7 @@ Slide based, events, animations.
 * [Role Description](https://www.notion.so/Web-UI-Developer-Role-9978e2084bcc45a7a182638acf38b956)
 * [Build Week - Web Foundations Rubric](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
 * [self](https://github.com/irsr2/Web-UI-Dev-3)
+* [stylguide](/styleguide.txt)
 
 ```
 Pitch: This app allows school administrators in the developing world to track and broadcast the needs of their school to board members in the US.
@@ -55,8 +56,10 @@ Styling Features (img example):
 * Round edges
 * Contrast
 * Cool colors, soft iconography
-[Color palette](./design/palette.html)
-![soft iconography](../design/colors.jpg)
+
+![Color palette](/design/palette.png)
+
+![soft iconography](/design/icons.png)
 
 Sections:
 * Intro
@@ -80,3 +83,7 @@ icons in nav bar (language agnostic)
 <script>
 document.title = "{$currentsection}":
 </script>
+
+
+// day 2/4
+How it works
