@@ -59,6 +59,3 @@ icons in nav bar (language agnostic)
 document.title = "{$currentsection}":
 </script>
 
-
-// day 2/4
-How it works
