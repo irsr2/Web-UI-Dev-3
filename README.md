@@ -28,7 +28,7 @@ Responsivle mobile / desktop
 # Developing world, technology, hardware, sharing, philanthropy, ticketing system
 
 
-* Round edges
+* Sharp edges
 * Contrast
 * Cool colors, soft iconography
 
