@@ -27,32 +27,7 @@ Responsivle mobile / desktop
 
 # Developing world, technology, hardware, sharing, philanthropy, ticketing system
 
-# header p: 
-```
-Our software makes it easy for schools to keep track of their technological assets and equipment.
-We can also provide an interface for philanthropists and NGOs to support technological development in the developing world.
-```
 
-# Workflow:
-
-## Section: 
-`School Admin can login and create, read, update and delete information on the condition of the school including general issues and the condition of equipment devices in the school`
-Our software makes it easy
-![Admin: create, read, update and delete](../design/state.jpg)
-
-## Section:
-A board member can log in and mark the action as done, scheduled, or ignored, and comment with more information.
-![Board, done, scheduled, or ignored, and comment](../design/admin.jpg)
-
-## Section:
-donor could see a need and purchase the needed device
-![Equipment Needed](../design/equipmentneeded.jpg)
-
-# Content:
-Philanthropy & technological investment 
-Making needs known to NGOs, Local government, and philanthropists,
-
-Styling Features (img example):
 * Round edges
 * Contrast
 * Cool colors, soft iconography

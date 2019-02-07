@@ -2119,8 +2119,8 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
-		background: none;
-		border: solid 1px;
+		background: #45AB60;
+		border: solid 2px;
 		border-radius: 0;
 		color: inherit;
 		cursor: pointer;
@@ -2603,9 +2603,8 @@ input, select, textarea {
 
 	#cta {
 		background-attachment: fixed;
-		background-color: #645862;
 		background-image:  url("../../images/banner.jpg");
-		background-position: bottom center;
+		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		color: #fff;
@@ -2620,7 +2619,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #E8EEF4;
+		background: #81CF96;
 		color: #7c8081;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
@@ -3279,7 +3278,7 @@ input, select, textarea {
 		/* CTA */
 
 			#cta {
-				background-size: 10em, 10em, auto, cover;
+				background-size: cover;
 				padding: 3em 1.5em;
 			}
 
